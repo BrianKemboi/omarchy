@@ -94,7 +94,7 @@
       "on-click": "GTK_THEME=Adwaita-dark blueberry"
     },
     "pulseaudio": {
-      "format": "",
+      "format": " {volume}%",
       "format-muted": "󰝟",
       "scroll-step": 5,
       "on-click": "GTK_THEME=Adwaita-dark pavucontrol",
