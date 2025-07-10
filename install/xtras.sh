@@ -1,6 +1,4 @@
-yay -S --noconfirm --needed \
-  obsidian-bin typora libreoffice \
-  pinta xournalpp
+yay -S --noconfirm --needed libreoffice
 
 # Copy over Omarchy applications
 source ~/.local/share/omarchy/bin/omarchy-sync-applications || true
